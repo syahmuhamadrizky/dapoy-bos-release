@@ -14,7 +14,7 @@
 
 ## 📌 Apa itu DAPOY BOS?
 
-**DAPOY BOS** adalah aplikasi *portable* tanpa instalasi rumit yang dirancang khusus untuk mempermudah pekerjaan Bendahara BOS. Aplikasi ini secara otomatis membaca dan mendekripsi database ARKAS lokal (`arkas.db`), kemudian menyajikannya dalam dashboard yang rapi, lengkap dengan fitur klasifikasi belanja, pencetakan dokumen (BAST, SPJ), dan ekspor data ke Excel/PDF.
+**DAPOY BOS** adalah aplikasi *portable* tanpa instalasi rumit yang dirancang khusus untuk mempermudah pekerjaan Bendahara BOS. Aplikasi ini secara otomatis membaca dan mendekripsi database ARKAS kemudian menyajikannya dalam dashboard yang rapi, lengkap dengan fitur klasifikasi belanja, pencetakan dokumen (BAST, SPJ), dan ekspor data ke Excel/PDF.
 
 Ucapkan selamat tinggal pada rekapitulasi BKU manual yang melelahkan! 👋📊
 
@@ -76,9 +76,9 @@ Aplikasi ini **100% Portable**. Tidak perlu instalasi XAMPP, database server, at
 3. **Login & Sinkronisasi:** 
    Gunakan **Email** dan **Password** akun ARKAS sekolah Anda.
 4. **Selesai:** 
-   Dapoy BOS akan memvalidasi akun, mendekripsi database `arkas.db` lokal, dan menampilkan seluruh rekapitulasi sekolah Anda secara instan.
+   Dapoy BOS akan memvalidasi akun, mendekripsi database ARKAS, dan menampilkan seluruh rekapitulasi sekolah Anda secara instan.
 
-> **⚠️ Penting:** Pastikan aplikasi **ARKAS Desktop resmi sudah pernah terpasang dan login** di komputer yang sama, sehingga database (`arkas.db`) tersedia untuk dibaca oleh Dapoy BOS.
+> **⚠️ Penting:** Pastikan aplikasi **ARKAS Desktop resmi sudah pernah terpasang dan login** di komputer yang sama, sehingga database ARKAS tersedia untuk dibaca oleh Dapoy BOS.
 
 ---
 
@@ -100,7 +100,7 @@ Aplikasi ini **100% Portable**. Tidak perlu instalasi XAMPP, database server, at
 
 **Persyaratan:**
 - OS: Windows (direkomendasikan Windows 10/11)
-- ARKAS Desktop telah terinstal dan memiliki database `arkas.db` lokal.
+- ARKAS Desktop telah terinstal
 - Koneksi Internet aktif (dibutuhkan saat login pertama kali untuk verifikasi kredensial lisensi aplikasi).
 
 **Troubleshooting Singkat:**
@@ -112,7 +112,7 @@ Aplikasi ini **100% Portable**. Tidak perlu instalasi XAMPP, database server, at
 ---
 
 ## 📝 Catatan Penting
-- 🔒 **Keamanan Data Lokal:** Semua data diproses secara lokal di komputer Anda. Demi keamanan, jangan memindahkan, menghapus, atau mengubah file `arkas.db`, `dapoy.db`, maupun `license_cache.json` secara sembarangan.
+- 🔒 **Keamanan Data Lokal:** Semua data diproses secara lokal di komputer Anda. Demi keamanan, jangan memindahkan, menghapus, atau mengubah file `dapoy.db`, maupun `license_cache.json` secara sembarangan.
 - 💼 **Mode Trial:** Jika lisensi sekolah belum terdaftar penuh atau sudah kedaluwarsa, aplikasi dapat masuk ke *Mode Trial* di mana beberapa fitur pencetakan/unduhan (*download*) bisa dibatasi.
 - 🛡️ **Cache Lisensi:** Aplikasi menyimpan cache lisensi lokal agar Anda tetap bisa login secara offline (jika sudah pernah login online sebelumnya). Namun, login online pertama kali adalah wajib.
 
