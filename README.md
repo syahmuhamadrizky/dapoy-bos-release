@@ -1,5 +1,6 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/syahmuhamadrizky/dapoy-bos/main/public/logo.png" alt="DAPOY BOS Logo" width="150" />
+<img src="https://raw.githubusercontent.com/syahmuhamadrizky/dapoy-bos/main/public/logo.png" alt="DAPOY BOS Logo" width="150" />
+
   
   # 🚀 DAPOY BOS
   **Asisten Virtual Terbaik untuk Bendahara Sekolah!**  
