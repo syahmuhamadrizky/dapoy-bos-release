@@ -1,14 +1,24 @@
-# Dapoy BOS Releases
 <div align="center">
-  <img src="logo.png" alt="DAPOY BOS Logo" width="150" />
+  <img src="https://raw.githubusercontent.com/syahmuhamadrizky/dapoy-bos/main/public/logo.png" alt="DAPOY BOS Logo" width="150" />
   
   # 🚀 DAPOY BOS
   **Asisten Virtual Terbaik untuk Bendahara Sekolah!**  
   *Sistem Informasi Rekapitulasi & Pelaporan Database ARKAS Berbasis Web Portable.*
   
-  [![Version](https://img.shields.io/badge/version-2.0.16-blue.svg)](#)
+  [![Version](https://img.shields.io/badge/version-2.0.19-blue.svg)](https://github.com/syahmuhamadrizky/dapoy-bos-release/releases)
   [![Platform](https://img.shields.io/badge/platform-Windows-lightgrey.svg)](#)
+  <br><br>
+  <a href="https://github.com/syahmuhamadrizky/dapoy-bos-release/releases">
+    <img src="https://img.shields.io/badge/⬇️%20Download-Latest%20Release%20ZIP-10b981?style=for-the-badge&logo=github&logoColor=white" alt="Download Latest Release" />
+  </a>
 </div>
+
+---
+
+## 📥 Unduh Aplikasi (Releases)
+
+Unduh bundle aplikasi **DAPOY BOS Portable** versi terbaru siap pakai (tanpa instalasi):
+🔗 **[Kunjungi Halaman Rilis GitHub (GitHub Releases)](https://github.com/syahmuhamadrizky/dapoy-bos-release/releases)**
 
 ---
 
