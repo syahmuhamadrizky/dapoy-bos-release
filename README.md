@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://raw.githubusercontent.com/syahmuhamadrizky/dapoy-bos/main/logo.png" alt="DAPOY BOS Logo" width="150" />
+<img src="https://raw.githubusercontent.com/syahmuhamadrizky/dapoy-bos-release/main/logo.png" alt="DAPOY BOS Logo" width="150" />
 
   
   # 🚀 DAPOY BOS
