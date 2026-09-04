@@ -2,7 +2,7 @@
 <img src="https://raw.githubusercontent.com/syahmuhamadrizky/dapoy-bos-release/main/logo.png" alt="DAPOY BOS Logo" width="150" />
 
   
-  # 🚀 DAPOY BOS
+  # DAPOY BOS
   **Asisten Virtual Terbaik untuk Bendahara Sekolah!**  
   *Sistem Informasi Rekapitulasi & Pelaporan Database ARKAS Berbasis Web Portable.*
   
