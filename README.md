@@ -6,7 +6,7 @@
   **Asisten Virtual Terbaik untuk Bendahara Sekolah!**  
   *Sistem Informasi Rekapitulasi & Pelaporan Database ARKAS Berbasis Web Portable.*
   
-  [![Version](https://img.shields.io/badge/version-2.0.19-blue.svg)](https://github.com/syahmuhamadrizky/dapoy-bos-release/releases)
+  [![Version](https://img.shields.io/badge/version-2.0.20-blue.svg)](https://github.com/syahmuhamadrizky/dapoy-bos-release/releases)
   [![Platform](https://img.shields.io/badge/platform-Windows-lightgrey.svg)](#)
   <br><br>
   <a href="https://github.com/syahmuhamadrizky/dapoy-bos-release/releases">
